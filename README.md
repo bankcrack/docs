@@ -48,4 +48,4 @@
 - 需要新增银行支持的
 - 需要定制修改的
 
-请联系我们：xxxxxxxxx@protonmail.com
+请联系我们：bankcrack@protonmail.com
